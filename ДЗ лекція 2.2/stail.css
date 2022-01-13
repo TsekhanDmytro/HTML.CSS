@@ -1,0 +1,42 @@
+div {
+    margin: 100px;
+
+}
+.blok1 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    box-shadow: #474747 50px 50px 0px 0px;
+}
+.blok2 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    box-shadow: #474747 50px 50px 5px 0px;
+}
+.blok3 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    box-shadow: #474747 50px 50px 5px 10px;
+}
+.blok4 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    box-shadow: #9f9f9f 50px 50px 10px 10px;
+}
+.blok5 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: #474747 50px 50px 5px 0px;
+}
+.blok6 {
+    background-color: #ffab02;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: #9f9f9f 50px 50px 5px 0px;
+}
