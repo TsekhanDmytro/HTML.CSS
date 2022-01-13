@@ -5,34 +5,42 @@ div{
     margin: 10px;
 }
 .name1{
-    height: 50px;
+    height: 20px;
     width: 150px;
     background-color:  #272727;
     border: 3px solid #ff6f1f;
     color: #a24f21;
     border-radius: 30px;
+    display: flex;
+    justify-content: center;
 }
 .name2{
-    height: 50px;
+    height: 20px;
     width: 150px;
     background-color:  #272727;
     border: 3px solid #2efff2;
     color: #2aafa6;
     border-radius: 30px;
+    display: flex;
+    justify-content: center;
 }
 .name3{
-    height: 50px;
+    height: 20px;
     width: 150px;
     background-color:  #272727;
     border: 3px solid #ff55a7;
     color: #ab4174;
     border-radius: 30px;
+    display: flex;
+    justify-content: center;
 }
 .name4{
-    height: 50px;
+    height: 20px;
     width: 150px;
     background-color:  #272727;
     border: 3px solid #ff4040;
     color: #ad3636;
     border-radius: 30px;
+    display: flex;
+    justify-content: center;
 }
