@@ -1,0 +1,32 @@
+.A {
+    background-color: #d9d9d9;
+    height: 200px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.B {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    width: 1600px;
+    height: 300px;
+
+}
+
+.C {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    height: 300px;
+    width: 200px;
+}
+
+.BB {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 10px;
