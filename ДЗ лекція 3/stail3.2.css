@@ -1,0 +1,43 @@
+
+body{
+    margin: 0;
+
+
+}
+#header{
+    height: 100px;
+    background-color: #e6f7b1;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#menu{
+    height: 510px;
+    width: 300px;
+    background-color: #ffb8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    height: 250px;
+    width: 1200px;
+    background-color: #a0e2ff;
+    display: flex;
+    row-gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    display: flex;
+    column-gap: 10px;
+}
+#footer{
+    height: 100px;
+    background-color: #ffffca;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
