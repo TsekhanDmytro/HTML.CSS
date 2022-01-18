@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    width: 900px;
+}
+
+.bg-text-color {
+    background-color: #d9d9d9;
+    color: #9f9f9f;
+}
+
+.grid2x3 {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.hei200 {
+    height: 200px;
+}
+
+.margB {
+    margin-bottom: 5px;
+}
+
+.text-centr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dis-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.h {
+    margin: 0;
+    height: 405px;
+    width: 285px;
+
+
+}
