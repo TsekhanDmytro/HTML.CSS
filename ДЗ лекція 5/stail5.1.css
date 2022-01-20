@@ -14,7 +14,7 @@ body {
     margin-bottom: 5px;
 }
 
-.BC {
+.bc {
     display: flex;
     justify-content: start;
     align-items: center;
@@ -32,7 +32,7 @@ body {
     width: 195px;
 }
 @media screen and (max-width: 412px){
-    .BC{ display: flex;
+    .bc{ display: flex;
         justify-content: start;
         align-items: start;
         flex-direction: column;
