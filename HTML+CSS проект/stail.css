@@ -252,7 +252,7 @@ body {
     height: 440px;
 }
 .solution-content-icon{
-    margin: 65px 1234px 24px 0;
+    margin: 65px auto 24px 0;
 }
 .solution-content-text1{
     margin: 0 auto;
@@ -262,15 +262,19 @@ body {
     line-height: 40px;
 }
 .solution-content-text2{
-margin: 28px 808px 64px 0;
+    margin: 28px 0 64px 0;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
     line-height: 28px;
+    max-width: 444px;
+}
+.solution-image{
+    margin: auto 0 auto auto;
 }
 .solution-button{
     margin-top: 18px;
-    background-color: #e7eaeb;
+    background-color: #d9d9d9;
     border-radius: 5px;
 }
 .solution-button-gold{
