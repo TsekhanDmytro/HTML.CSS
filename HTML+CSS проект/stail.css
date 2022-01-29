@@ -221,7 +221,7 @@ body {
 }
 
 
-.solutions{
+.solutions {
     margin-top: 136px;
     height: 1900px;
 }
@@ -299,15 +299,17 @@ body {
 }
 
 
-.features{
+.features {
     height: 900px;
     background-color: #F2EDE7;
 
 }
-.features-head{
+
+.features-head {
     margin: auto;
 }
-.features-head-text1{
+
+.features-head-text1 {
     padding-top: 96px;
     margin: auto auto 16px 122px;
     font-style: normal;
@@ -326,40 +328,46 @@ body {
     color: #0B2330;
 }
 
-.features-img{
+.features-img {
     margin: 0 auto auto 122px;
 }
-.features-accordion{
+
+.features-accordion {
     width: 588px;
     border-top: 3px solid #C9316F;
     margin-right: 122px;
 }
-.accordion-text1{
+
+.accordion-text1 {
     margin-bottom: 36px;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
     line-height: 28px;
 }
-.accordion-text2{
+
+.accordion-text2 {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 28px;
     margin-bottom: 39px;
 }
-.accordion-text3{
+
+.accordion-text3 {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 28px;
 }
 
-.integrations{
+
+.integrations {
     margin: 160px auto 160px auto;
     height: 418px;
 }
-.integrations-text1{
+
+.integrations-text1 {
     margin: 24px auto auto 148px;
     color: #375361;
     font-style: normal;
@@ -367,7 +375,8 @@ body {
     font-size: 17px;
     line-height: 28px;
 }
-.integrations-text2{
+
+.integrations-text2 {
     width: 650px;
     margin: 16px auto auto 148px;
     font-style: normal;
@@ -376,7 +385,8 @@ body {
     line-height: 40px;
     color: #0B2330;
 }
-.integrations-text3{
+
+.integrations-text3 {
     width: 739px;
     margin: 16px auto auto 148px;
     font-style: normal;
@@ -385,7 +395,95 @@ body {
     line-height: 28px;
     color: #375361;
 }
-.integrations-text4{
+
+.integrations-text4 {
     margin: 40px auto 24px 148px;
 
+}
+
+
+.case-study {
+    height: 774px;
+}
+
+.case-study-bloc {
+    height: 584px;
+    width: 1376px;
+    margin: auto;
+    background-color: #F2EDE7;
+    border-radius: 10px;
+}
+
+.case-study-left {
+    height: 584px;
+    width: 562px;
+}
+
+.case-study-left1 {
+    margin: 80px auto auto 116px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #375361;
+}
+
+.case-study-left2 {
+    margin: 24px auto auto 116px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0B2330;
+}
+
+.case-study-left3 {
+    margin: 24px auto 40px 116px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+}
+
+.case-study-left4 {
+    margin-left: 116px;
+    background-color: #F2EDE7;
+}
+
+
+.case-study-right {
+    width: 794px;
+    height: 584px;
+    background-color: #F9C600;
+    margin-left: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.case-study-right-text {
+    position: relative;
+    height: 424px;
+    width: 562px;
+    margin: -144px 116px;
+}
+
+.case-study-right-text1 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.case-study-right-text2 {
+    margin-top: 80px;
+    height: 80px;
+}
+.case-study-right-text3{
+    margin: 14px 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
 }
