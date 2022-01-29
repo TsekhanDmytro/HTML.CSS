@@ -20,6 +20,7 @@ body {
     margin-right: 60px;
 }
 
+
 .header-icon {
     margin-left: 35px;
     margin-top: 15px;
@@ -41,6 +42,7 @@ body {
     border-radius: 5px;
 }
 
+
 .button-gold {
     background-color: #F9C600;
 }
@@ -54,6 +56,7 @@ body {
     border: 1px solid #060303;
     background-color: white;
 }
+
 
 .content1-text {
     width: 840px;
@@ -220,20 +223,23 @@ body {
 
 .solutions{
     margin-top: 136px;
-    height: 1772px;
+    height: 1900px;
 }
-.solution-head{
+
+.solution-head {
     height: 240px;
     margin: 0 265px 172px 148px;
 }
-.solution-head-text1{
+
+.solution-head-text1 {
     margin-bottom: 16px;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
 }
-.solution-head-text2{
+
+.solution-head-text2 {
     margin: 0 434px 27px 0;
     font-style: normal;
     font-weight: normal;
@@ -241,27 +247,32 @@ body {
     line-height: 48px;
 
 }
-.solution-head-text3{
+
+.solution-head-text3 {
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
     line-height: 32px;
 }
-.solution-content{
+
+.solution-content {
     margin: 0 32px 20px 150px;
     height: 440px;
 }
-.solution-content-icon{
+
+.solution-content-icon {
     margin: 65px auto 24px 0;
 }
-.solution-content-text1{
+
+.solution-content-text1 {
     margin: 0 auto;
     font-style: normal;
     font-weight: normal;
     font-size: 34px;
     line-height: 40px;
 }
-.solution-content-text2{
+
+.solution-content-text2 {
     margin: 28px 0 64px 0;
     font-style: normal;
     font-weight: normal;
@@ -269,17 +280,112 @@ body {
     line-height: 28px;
     max-width: 444px;
 }
-.solution-image{
+
+.solution-image {
     margin: auto 0 auto auto;
 }
-.solution-button{
+
+.solution-button {
     margin-top: 18px;
     background-color: #d9d9d9;
     border-radius: 5px;
 }
-.solution-button-gold{
+
+.solution-button-gold {
     margin-top: 18px;
     margin-bottom: 152px;
     background-color: #fea02a;
     border-radius: 5px;
+}
+
+
+.features{
+    height: 900px;
+    background-color: #F2EDE7;
+
+}
+.features-head{
+    margin: auto;
+}
+.features-head-text1{
+    padding-top: 96px;
+    margin: auto auto 16px 122px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #375361;
+}
+
+.features-head-text2 {
+    margin: 0 300px 116px 122px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 64px;
+    color: #0B2330;
+}
+
+.features-img{
+    margin: 0 auto auto 122px;
+}
+.features-accordion{
+    width: 588px;
+    border-top: 3px solid #C9316F;
+    margin-right: 122px;
+}
+.accordion-text1{
+    margin-bottom: 36px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+}
+.accordion-text2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 39px;
+}
+.accordion-text3{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.integrations{
+    margin: 160px auto 160px auto;
+    height: 418px;
+}
+.integrations-text1{
+    margin: 24px auto auto 148px;
+    color: #375361;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+}
+.integrations-text2{
+    width: 650px;
+    margin: 16px auto auto 148px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    color: #0B2330;
+}
+.integrations-text3{
+    width: 739px;
+    margin: 16px auto auto 148px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+}
+.integrations-text4{
+    margin: 40px auto 24px 148px;
+
 }
