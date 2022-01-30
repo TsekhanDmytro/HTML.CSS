@@ -502,6 +502,8 @@ body {
 .footer1 {
     height: 421px;
     background-color: #0B2330;
+    display: flex;
+    justify-content: center;
 }
 .footer1-text1 {
     color: white;
@@ -529,3 +531,14 @@ body {
 }
 
 
+.footer2{
+    height: 678px;
+    background-color: #0B2330;
+}
+.footer-icon{
+    margin: 80px 110px auto 32px;
+}
+.footer2-content{
+    margin-top: 80px;
+    background-color: #8a2928;
+}
